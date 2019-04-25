@@ -1,0 +1,16 @@
+{
+  "name": "uam-messenger-bot",
+  "version": "1.0.0",
+  "description": "Simple Messenger Bot starter",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Dawid Kędzierski",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "request": "^2.72.0"
+  }
+}
